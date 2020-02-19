@@ -35,9 +35,9 @@ We value succinctness.
 There are bonus points. That means that are not mandatory, up to you if you want to implement them (one or both) or not.
 
 1. Product Detail modal
-  * Our UI engineer hadn't time either to work on the product details modal which you can see in the `/bonus` folder. It would be a plus if you could implement it.
+    * Our UI engineer hadn't time either to work on the product details modal which you can see in the `/bonus` folder. It would be a plus if you could implement it.
 
-2. Discounts
+2. Discounts  
 We would like to add some discounts to our products. Choose one or both and add them in your implementation:
-  * 2-for-1 promotions: buy two of the same product, get one free, applied to `MUG` items.
-  * bulk discounts: buying 3 or more of `TSHIRT` product, the price of that product is reduced 5%. E.g., if you buy 3 or more `TSHIRT` items, the price per unit should be 19.00€.
+    * 2-for-1 promotions: buy two of the same product, get one free, applied to `MUG` items.
+    * bulk discounts: buying 3 or more of `TSHIRT` product, the price of that product is reduced 5%. E.g., if you buy 3 or more `TSHIRT` items, the price per unit should be 19.00€.
