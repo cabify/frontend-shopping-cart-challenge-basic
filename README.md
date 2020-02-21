@@ -28,6 +28,7 @@ Our top UI engineer has already made an initial implementation of the store with
 - Provide a solution that could be easy to grow and easy to add new functionality.
 - You can add any UX / UI improvements you consider, but we are going to focus on the requested features.
 We value succinctness.
+- The challenge must not depend on external resources and must work locally.
 - When in doubt, act as a product owner
 
 **Bonus Points**
